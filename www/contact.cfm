@@ -47,12 +47,12 @@
 					<div class="menu_nav">
 						<div id="nav-wrap">
 							<ul class="arrowunderline" id="nav">
-								<li class="home"><a href="index.html">Home</a></li>
-								<li class="about"><a href="about.html">About</a></li>
-								<li class="resume"><a href="resume.html">Resume</a></li>
-								<li class="blog"><a href="blog.html">Blog</a></li>
-								<li class="portfolio"><a href="portfolio.html">Portfolio</a></li>
-								<li class="contact" id="selected"><a href="contact.html">Contact</a></li>	
+								<li class="home"><a href="index.cfm">Home</a></li>
+								<li class="about"><a href="about.cfm">About</a></li>
+								<li class="resume"><a href="resume.cfm">Resume</a></li>
+								<li class="blog"><a href="blog.cfm">Blog</a></li>
+								<li class="portfolio"><a href="portfolio.cfm">Portfolio</a></li>
+								<li class="contact" id="selected"><a href="contact.cfm">Contact</a></li>	
 							</ul>
 						</div>
 					</div>
