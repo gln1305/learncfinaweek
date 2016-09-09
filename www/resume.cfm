@@ -154,7 +154,7 @@
 								<div class="skills">
 									<ul>
 										<cfoutput>
-											<cfloop index = "skill" list = "mySkills">
+											<cfloop index = "skill" list = "#mySkills#">
 													<li class="#skill#" id="#skill#">#skill#</li>
 											</cfloop>
 										</cfoutput>
